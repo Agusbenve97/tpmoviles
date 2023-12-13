@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nombre de tu aplicación</string>
+    <string name="button_perros">Perros</string>
+    <string name="button_gatos">Gatos</string>
+    <string name="button_perdidos">Perdidos</string>
+    <string name="button_antes_de_adoptar">Antes de Adoptar</string>
+</resources>
